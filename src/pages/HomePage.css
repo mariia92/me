@@ -1,0 +1,10 @@
+.ProfileImageWrapper {
+  background-image: url("../images/profile.jpg");
+  min-height: 750px;
+  /* parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* end parallax scrolling effect */
+}
